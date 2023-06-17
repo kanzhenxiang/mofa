@@ -8,7 +8,7 @@
 
 第一步: 进入网站注册好账号　[点击进入](https://board.gtk.pw/#/register?code=cUPx1St2) 
 
-第二步: 进入刚刚的"魔法"网站首页，根据你的设备型号查看使用教程,根据教程，下载软件，安装设置并一键订阅([安卓手机](https://github.com/kanzhenxiang/mofa/blob/main/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%AB%AFClash%E6%95%99%E7%A8%8B.md),[Windows电脑](https://github.com/kanzhenxiang/mofa/blob/main/windows%E7%94%B5%E8%84%91%E7%AB%AFClash%E6%95%99%E7%A8%8B.md),[苹果手机](https://github.com/kanzhenxiang/mofa/blob/main/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%AB%AFShadowrocket%E6%95%99%E7%A8%8B.md),[苹果电脑](https://github.com/kanzhenxiang/mofa/blob/main/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E7%AB%AFClashX%E6%95%99%E7%A8%8B.md))
+第二步: 根据你的设备型号查看使用教程,根据教程，下载软件，安装设置并一键订阅([安卓手机](https://github.com/kanzhenxiang/mofa/blob/main/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%AB%AFClash%E6%95%99%E7%A8%8B.md),[Windows电脑](https://github.com/kanzhenxiang/mofa/blob/main/windows%E7%94%B5%E8%84%91%E7%AB%AFClash%E6%95%99%E7%A8%8B.md),[苹果手机](https://github.com/kanzhenxiang/mofa/blob/main/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%AB%AFShadowrocket%E6%95%99%E7%A8%8B.md),[苹果电脑](https://github.com/kanzhenxiang/mofa/blob/main/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E7%AB%AFClashX%E6%95%99%E7%A8%8B.md))
 
 第三步：最后打开浏览器，看能不能进入油管，能进入看视频就说明成功了！ 　[点击进入油管](https://www.youtube.com/)　
 
