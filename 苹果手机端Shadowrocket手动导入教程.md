@@ -83,9 +83,9 @@
 ## Shadowrocket进阶玩法
    默认的配置规则(足够用),如果你还想折腾更多规则,可以通过下面的方法使用进阶的配置。
 
-1. 运行ShadowRocket，点击下方菜单栏的『配置』，并选择『添加配置』。 ![img](https://camo.githubusercontent.com/b43543b3ae2ba1cd0f701cd927d42702996ce6d11002135dacf0a838d25220a6/687474703a2f2f6f6b397376616b34332e626b742e636c6f7564646e2e636f6d2f466e45496f474765727339355248566d6d6870576c4e35616747544b2e504e47)
-2. 在弹出的窗口中，粘贴规则URL：`https://cdn.jsdelivr.net/gh/Hackl0us/SS-Rule-Snippet@master/LAZY_RULES/Shadowrocket.conf`，点击『下载』按钮。 ![img](https://camo.githubusercontent.com/94ccc8bb63e782631b012c3af4ca7ea0e434f59b47f1ddb1dcbcf3bff4a25fb6/687474703a2f2f6f6b397376616b34332e626b742e636c6f7564646e2e636f6d2f4668424e524c2d68796b6242556e5f7a5341614e3073547a5834617a2e504e47)
-3. 添加完成后，可在『远程文件』一栏中，看到刚粘贴的URL。单击该URL，在弹出的菜单中选择『使用配置』。 ![img](https://camo.githubusercontent.com/9ceaf16ccfcdc855ed838a23b4fbcf5621d5e8f75881a99de85dfa08f1f77b7c/687474703a2f2f6f6b397376616b34332e626b742e636c6f7564646e2e636f6d2f4674492d777a53505132674b74472d4959524235415a6571307039312e504e47)
+1. 运行ShadowRocket，点击下方菜单栏的『配置』，并选择『添加配置』。
+2. 在弹出的窗口中，粘贴规则URL：`https://cdn.jsdelivr.net/gh/Hackl0us/SS-Rule-Snippet@master/LAZY_RULES/Shadowrocket.conf`，点击『下载』按钮。 
+3. 添加完成后，可在『远程文件』一栏中，看到刚粘贴的URL。单击该URL，在弹出的菜单中选择『使用配置』。 
 4. 稍等片刻可以发现『本地文件』一栏中，多出名的`ShadowRocket.conf`配置文件，左边有橙色的点，右边有✔️，表示添加成功。
 
 
