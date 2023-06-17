@@ -74,7 +74,7 @@ windows7以上版本可能会有防火墙提示, 请**勾选所有类型并允�
 
 浏览器会跳出一个对话框，点击 打开Clash for Windows 就可以自动导入软件了！
 
-![img](assets/2aae70aa9c7e3.png)
+![img](https://s1.locimg.com/2023/06/18/2aae70aa9c7e3.png)
 
 
 
