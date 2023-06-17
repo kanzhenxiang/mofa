@@ -87,7 +87,7 @@
    2.默认的配置文件可能不太完善, 所以推荐使用下面这个配置文件
 
 [IOS客户端点击使用高级配置规则](shadowrocket://config/add/https://cdn.jsdelivr.net/gh/Hackl0us/SS-Rule-Snippet@master/LAZY_RULES/Shadowrocket.conf)
-
+shadowrocket://config/add/https://cdn.jsdelivr.net/gh/Hackl0us/SS-Rule-Snippet@master/LAZY_RULES/Shadowrocket.conf
 
 
 ![img](https://299015789-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M7znwxymXBX83heMKym%2Fuploads%2Fcm1HKPv6JjP53e9BaXBn%2FWeChatd82f02845ea8911f587ddb6bec5fa51f.png?alt=media&token=1ee0e8da-d9b6-4c93-a2f6-35106298840a)
