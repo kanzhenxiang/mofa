@@ -57,11 +57,3 @@ IOS客户端, 均使用第三方公共收费连接工具软件
 
 
 
-### Shadowrocket进阶玩法
-
-1. 配置模式下Shadowrocket根据配置文件决定哪些网站会使用vpn访问。
-
-​    2.默认的配置文件可能不太完善, 所以推荐使用下面这个配置文件。
-
-[点击使用高级配置规则](shadowrocket://config/add/https://cdn.jsdelivr.net/gh/Hackl0us/SS-Rule-Snippet@master/LAZY_RULES/Shadowrocket.conf)
-
