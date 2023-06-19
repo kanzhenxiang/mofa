@@ -31,11 +31,11 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 返回首页->点击启动
 
-<img src="assets/c05b647bc1d62-1687175701783-45.png" style="zoom: 50%;" />
+<img src="https://s1.locimg.com/2023/06/19/c05b647bc1d62.png" style="zoom: 50%;" />
 
 点击代理->右上角的闪电->任意选一个节点
 
-<img src="assets/9da25317e808f-1687175701784-47.png" style="zoom: 50%;" />
+<img src="https://s1.locimg.com/2023/06/19/9da25317e808f.png" style="zoom: 50%;" />
 
 
 
