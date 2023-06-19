@@ -25,13 +25,15 @@ IOS客户端, 均使用第三方公共收费连接工具软件
 使用已安装Shadowrocket的IOS手机
 
 登录魔法网站 -> 仪表盘 -> 一键订阅
-点击下方 导入Shadowrocket 即可
 
-请使用浏览器访问此页面,否则无法一键导入
+点击下方 导入Shadowrocket 即可,
+请使用浏览器订阅,否则无法一键导入
 
-**点击自动导入到 Shadowrocket**
+导入后，打开软件首页 -> 先点连通性测试 -> 选择一个节点国家 -> 顶部开启节点
 
-如果无法自动导入, 请使用浏览器访问此页面或查看手动导入教程
+<img src="https://s1.locimg.com/2023/06/19/33c367b55b021.jpg" style="zoom: 50%;" />
+
+如果无法自动导入, 请使用浏览器访问魔法网站咨询客服或查看手动导入教程
 
 [手动导入 Shadowrocket教程->](https://github.com/kanzhenxiang/mofa/blob/main/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%AB%AFShadowrocket%E6%89%8B%E5%8A%A8%E5%AF%BC%E5%85%A5%E6%95%99%E7%A8%8B.md)
 
@@ -59,3 +61,21 @@ IOS客户端, 均使用第三方公共收费连接工具软件
 
 
 
+## Shadowrocket进阶玩法
+
+​	1.默认的配置规则(足够用),如果你还想折腾更多规则,可以通过下面的方法使用进阶的配置。
+
+1. 运行ShadowRocket，点击下方菜单栏的『配置』，并选择『添加配置』。
+2. 在弹出的窗口中，粘贴规则URL：`https://cdn.jsdelivr.net/gh/Hackl0us/SS-Rule-Snippet@master/LAZY_RULES/Shadowrocket.conf`，点击『下载』按钮。
+3. 添加完成后，可在『远程文件』一栏中，看到刚粘贴的URL。单击该URL，在弹出的菜单中选择『使用配置』。
+4. 稍等片刻可以发现『本地文件』一栏中，多出名的`ShadowRocket.conf`配置文件，左边有橙色的点，右边有✔️，表示添加成功。 
+
+
+
+![img](assets/spaces%252F-M7znwxymXBX83heMKym%252Fuploads%252Fcm1HKPv6JjP53e9BaXBn%252FWeChatd82f02845ea8911f587ddb6bec5fa51f.png)
+
+
+
+
+
+![img](assets/spaces%252F-M7znwxymXBX83heMKym%252Fuploads%252F2QlSQq7ziTRx1x5FmrQ3%252Fimage.png)
