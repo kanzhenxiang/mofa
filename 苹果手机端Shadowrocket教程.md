@@ -68,12 +68,10 @@ IOS客户端, 均使用第三方公共收费连接工具软件
 3. 添加完成后，可在『远程文件』一栏中，看到刚粘贴的URL。单击该URL，在弹出的菜单中选择『使用配置』。
 4. 稍等片刻可以发现『本地文件』一栏中，多出名的`ShadowRocket.conf`配置文件，左边有橙色的点，右边有✔️，表示添加成功。 
 
-
-
-![img](https://299015789-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M7znwxymXBX83heMKym%2Fuploads%2Fcm1HKPv6JjP53e9BaXBn%2FWeChatd82f02845ea8911f587ddb6bec5fa51f.png?alt=media&token=1ee0e8da-d9b6-4c93-a2f6-35106298840a)
+<img src="https://299015789-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M7znwxymXBX83heMKym%2Fuploads%2Fcm1HKPv6JjP53e9BaXBn%2FWeChatd82f02845ea8911f587ddb6bec5fa51f.png?alt=media&token=1ee0e8da-d9b6-4c93-a2f6-35106298840a" alt="img" style="zoom:50%;" />
 
 
 
 
 
-![img](https://299015789-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M7znwxymXBX83heMKym%2Fuploads%2F2QlSQq7ziTRx1x5FmrQ3%2Fimage.png?alt=media&token=bdfaa574-9e09-4d89-9ef8-ad57d243ad78)
+<img src="https://299015789-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M7znwxymXBX83heMKym%2Fuploads%2F2QlSQq7ziTRx1x5FmrQ3%2Fimage.png?alt=media&token=bdfaa574-9e09-4d89-9ef8-ad57d243ad78" alt="img"  />
