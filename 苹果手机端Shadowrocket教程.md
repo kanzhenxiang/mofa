@@ -29,17 +29,11 @@ IOS客户端, 均使用第三方公共收费连接工具软件
 点击下方 导入Shadowrocket 即可,
 请使用浏览器订阅,否则无法一键导入
 
-导入后，打开软件首页 -> 先点连通性测试 -> 选择一个节点国家 -> 顶部开启节点
-
-<img src="https://s1.locimg.com/2023/06/19/33c367b55b021.jpg" style="zoom: 50%;" />
-
-如果无法自动导入, 请使用浏览器访问魔法网站咨询客服或查看手动导入教程
-
-[手动导入 Shadowrocket教程->](https://github.com/kanzhenxiang/mofa/blob/main/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%AB%AFShadowrocket%E6%89%8B%E5%8A%A8%E5%AF%BC%E5%85%A5%E6%95%99%E7%A8%8B.md)
-
 ### 启动Shadowrocket
 
-1. 首页选择一个我们的接入点，然后点击顶部的开关。
+1. 导入后，打开软件首页 -> 先点连通性测试 -> 选择一个节点国家 -> 顶部开启节点
+
+<img src="https://s1.locimg.com/2023/06/19/33c367b55b021.jpg" style="zoom: 50%;" />
 
 
 
@@ -47,7 +41,11 @@ IOS客户端, 均使用第三方公共收费连接工具软件
 
 
 
-3. 之后会自动返回到 shadowrocket 界面，此时已完成启用。
+3. 之后会自动返回到 shadowrocket 界面，此时已完成启用，可以遨游世界了。
+
+4. 如果无法自动导入, 请使用浏览器访问魔法网站咨询客服或查看手动导入教程
+
+   [手动导入 Shadowrocket教程->](https://github.com/kanzhenxiang/mofa/blob/main/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%AB%AFShadowrocket%E6%89%8B%E5%8A%A8%E5%AF%BC%E5%85%A5%E6%95%99%E7%A8%8B.md)
 
 
 
