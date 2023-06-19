@@ -26,7 +26,7 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 ![img](https://299015789-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M7znwxymXBX83heMKym%2Fuploads%2FukXiTRzldbyknRn8epqK%2Fimage.png?alt=media&token=f611c352-8d03-4bd4-a41c-2c0b86bf2dcd)
 
-导入后点Clash右上角保存
+导入后点右上角保存
 <img src="https://s1.locimg.com/2023/06/19/3b1d5f5f7f2dc.png" style="zoom:50%;" />
 
 返回首页->点击启动
